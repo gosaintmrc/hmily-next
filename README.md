@@ -50,7 +50,8 @@
 <br/>
 
 -------------------------------------------------------------------------------
-
+# hmily-next
+由于原来的hmily没有持续更新，因此拉取新的分支，兼容后续JDK版本以及对应的SpringBoot
 # Panorama of distributed transaction solutions
  ![](https://yu199195.github.io/images/hmily/hmily.png) 
 
